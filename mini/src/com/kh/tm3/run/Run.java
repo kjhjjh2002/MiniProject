@@ -6,7 +6,7 @@ public class Run {
 		// TODO Auto-generated method stub
 
 		System.out.println("TEST");
-		System.out.println();
+		System.out.println("자바 버전 변환");
 
 	}
 
